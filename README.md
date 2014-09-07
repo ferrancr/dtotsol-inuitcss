@@ -1,7 +1,7 @@
 dtotsol-inuitcss
 ================
 
-Entorno de desarrollo CSS basado en [Inuitcss](#links) y SASS para los proyectos que utilizan HTML5, CSS3 y tienen que ser adaptables a los distintos terminales "resposive"
+Entorno personal de desarrollo CSS basado en [Inuitcss](#links) y SASS para los proyectos que utilizan HTML5, CSS3 y tienen que ser adaptables a los distintos terminales "resposive"
 
 
 
