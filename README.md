@@ -28,8 +28,9 @@ Utilizar __grunt__ para complicar los scss del proyecto
 ```
 
 ##Links
-* https://github.com/inuitcss Inuit, última versión. Pero cono Inuit se ha desglosado en tantos proyectos como partes que se compone es un poco íncomo tener una idea de que va, así que viene bien visitar
-* https://github.com/inuitcss/getting-started "Pasos para crear un proyecto Inuit".
-* https://github.com/csswizardry/inuit.css "Versión inicial de Inuit, con algunos comentarios interesantes del autor".
-* https://github.com/desgnl/inuitcss-demo "Demostración de todos complementos activados".
-* https://github.com/terabytenz/inuit.css-kitchensink "Contiene complementos adicionales".
+* https://github.com/inuitcss Inuit, última versión. Pero cono InuitCSS se ha desglosado en tantos proyectos como partes que se compone es un poco íncomo tener una idea de que va, así que viene bien visitar
+* https://github.com/inuitcss/getting-started "Pasos para crear un proyecto InuitCSS.
+* https://github.com/csswizardry/inuit.css "Versión inicial de InuitCSS, con algunos comentarios interesantes del autor".
+* https://github.com/desgnl/inuitcss-demo Demostración de todos complementos activados.
+* https://github.com/terabytenz/inuit.css-kitchensink Contiene complementos adicionales.
+* http://webdesign.tutsplus.com/articles/rubbing-noses-with-inuitcss--webdesign-9523 Tutorial sobre las primeras versiones de InduitCSS
