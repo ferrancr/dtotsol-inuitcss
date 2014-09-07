@@ -1,0 +1,45 @@
+{
+  "name": "inuitcss-demo",
+  "version": "0.1",
+  "main": [
+    "src/css/styles.css",
+    "src/js/script.js",
+    "src/img/sprite.img"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "inuit-headings": "latest",
+    "inuit-images": "latest",
+    "inuit-lists": "latest",
+    "inuit-page": "latest",
+    "inuit-paragraphs": "latest",
+    "inuit-box-sizing": "latest",
+    "inuit-normalize": "latest",
+    "inuit-reset": "latest",
+    "inuit-shared": "latest",
+    "inuit-box": "latest",
+    "inuit-buttons": "latest",
+    "inuit-flag": "latest",
+    "inuit-layout": "latest",
+    "inuit-list-bare": "latest",
+    "inuit-list-block": "latest",
+    "inuit-list-inline": "latest",
+    "inuit-list-ui": "latest",
+    "inuit-media": "latest",
+    "inuit-tables": "latest",
+    "inuit-tabs": "latest",
+    "inuit-defaults": "latest",
+    "inuit-responsive-settings": "latest",
+    "inuit-functions": "latest",
+    "inuit-mixins": "latest",
+    "inuit-responsive-tools": "latest",
+    "inuit-clearfix": "latest",
+    "inuit-print": "latest",
+    "inuit-spacing": "latest",
+    "inuit-widths": "latest",
+    "inuit-spacing-responsive": "latest",
+    "inuit-widths-responsive": "latest"
+  }
+}

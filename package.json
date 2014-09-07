@@ -1,0 +1,13 @@
+{
+  "name": "kirby-theme-sessun",
+  "version": "0.1.2",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-concat": "latest",
+    "matchdep": "latest",
+    "grunt-contrib-copy": "latest"
+  }
+}
