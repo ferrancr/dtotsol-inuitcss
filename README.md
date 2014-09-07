@@ -9,7 +9,12 @@ Para su instalación y puesta en marcha
 ```
   git clone https://github.com/ferrancr/dtotsol-inuitcss.git
   cd dtotsol-inuitcss/
+ Es necesario desligarse de dtotsol-inuitcss
+  rm -r .git
+  git init
+ Cargamos los módulos para grunt
   npm install
+ Cargamos los módulos para inuit
   bower install
 ```
 Modificar el __Gruntfile.js__ para indicarle al "compilador grunt" donde ha de colocar los ficheros css generados 
