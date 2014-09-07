@@ -1,7 +1,7 @@
 dtotsol-inuitcss
 ================
 
-Entorno de desarrollo CSS basado en [Inuitcss](#id1) y SASS para los proyectos que utilizan HTML5, CSS3 y tienen que ser adaptables a los distintos terminales "resposive"
+Entorno de desarrollo CSS basado en [Inuitcss](#links) y SASS para los proyectos que utilizan HTML5, CSS3 y tienen que ser adaptables a los distintos terminales "resposive"
 
 
 
@@ -23,7 +23,6 @@ Utilizar __grunt__ para complicar los scss del proyecto
 ```
 
 ##Links
-<div id="id1"></div>
 * https://github.com/inuitcss Inuit, última versión. Pero cono Inuit se ha desglosado en tantos proyectos como partes que se compone es un poco íncomo tener una idea de que va, así que viene bien visitar
 * https://github.com/inuitcss/getting-started "Pasos para crear un proyecto Inuit".
 * https://github.com/csswizardry/inuit.css "Versión inicial de Inuit, con algunos comentarios interesantes del autor".
