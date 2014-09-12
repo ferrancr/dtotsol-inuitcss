@@ -34,3 +34,22 @@ Utilizar __grunt__ para complicar los scss del proyecto
 * https://github.com/desgnl/inuitcss-demo Demostración de todos complementos activados.
 * https://github.com/terabytenz/inuit.css-kitchensink Contiene complementos adicionales.
 * http://webdesign.tutsplus.com/articles/rubbing-noses-with-inuitcss--webdesign-9523 Tutorial sobre las primeras versiones de InduitCSS
+
+##script showInuit.sh
+El que sea Inuitcss modular es una ventaja a nivel de desarrollo pero un inconveniente para poder ver de manera rápida todas sus funcionalidades, 
+así que se puede crear un pequeño script para tener todo Inuitcss en un solo documento.
+```
+for i  in `find dtotsol-inuitcss -name "*.scss" ` 
+do
+  echo "
+---------------------------
+fichero: $i
+----------------------"
+  cat $i
+done
+```
+Se puede lanzar 
+```
+sh showInuit.sh >showInuit.txt
+```
+
